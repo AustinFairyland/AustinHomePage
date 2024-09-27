@@ -14,7 +14,7 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/github.svg",
         title: 'Github',
         desc: '探索开源世界，发现充满创意和协作精神的代码库。',
-        link: 'https://github.com/AustinFairyland',
+        link: 'https://github.com/FairylandTech',
       },
       {
         icon: 'https://txcos.service.fairy.host/icon/gitlab.svg',

@@ -14,31 +14,31 @@ titleTemplate: About
     <a href='https://t.me/FairyLtd'>
         <img src="https://img.shields.io/badge/Author-Lionel_Johnson-orange" referrerpolicy="no-referrer" alt="Author" class="target-image">
     </a><span> </span>
-    <a href='https://github.com/AustinFairyland'>
+    <a href='https://github.com/FairylandTech'>
         <img src="https://img.shields.io/badge/Github-Lionel_Johnson-green" referrerpolicy="no-referrer" alt="github" class="target-image">
     </a><span> </span>
     <a href='https://interestingbooks.gitbook.io/'>
         <img src="https://img.shields.io/badge/GitBook-Lionel_Johnson-green" referrerpolicy="no-referrer" alt="GitBook" class="target-image">
     </a><span> </span>
-    <a href='https://github.com/AustinFairyland'>
+    <a href='https://github.com/FairylandTech'>
         <img src="https://img.shields.io/badge/Editor-PyCharm-yellow" referrerpolicy="no-referrer" alt="Editor" class="target-image">
     </a><span> </span>
-    <a href='https://github.com/AustinFairyland'>
+    <a href='https://github.com/FairylandTech'>
         <img src="https://img.shields.io/badge/Language-Markdown-orange" referrerpolicy="no-referrer" alt="Language" class="target-image">
     </a><span> </span>
-    <a href='https://github.com/AustinFairyland'>
+    <a href='https://github.com/FairylandTech'>
         <img src="https://img.shields.io/badge/Version-Release-blue" referrerpolicy="no-referrer" alt="Version" class="target-image">
     </a><span> </span>
-    <a href='https://github.com/AustinFairyland'>
+    <a href='https://github.com/FairylandTech'>
         <img src="https://img.shields.io/badge/Docs-Passing-brightgreen" referrerpolicy="no-referrer" alt="Docs" class="target-image">
     </a><span> </span>
-    <a href='https://github.com/AustinFairyland'>
+    <a href='https://github.com/FairylandTech'>
         <img src="https://img.shields.io/badge/Type-Documents-blue" referrerpolicy="no-referrer" alt="Type" class="target-image">
     </a><span> </span>
     <a href='https://wakatime.com/@fa851759-c657-4b1e-8bcb-3ec3a693a2cd'>
         <img src="https://wakatime.com/badge/user/fa851759-c657-4b1e-8bcb-3ec3a693a2cd.svg" referrerpolicy="no-referrer" alt="Wakatime" class="target-image">
     </a><span> </span>
-    <a href='https://github.com/AustinFairyland'>
+    <a href='https://github.com/FairylandTech'>
         <img src="https://img.shields.io/badge/%E7%AD%89%E6%88%91%E4%BB%A3%E7%A0%81%E7%BC%96%E6%88%90-%E5%A8%B6%E4%BD%A0%E4%B8%BA%E5%A6%BB%E5%8F%AF%E5%A5%BD-red" referrerpolicy="no-referrer" alt="Sign">
     </a>
 </p>
@@ -50,7 +50,7 @@ Development Environment
         <img src="https://img.shields.io/badge/Development%20System-Win11Pro%20Workstations%2023H2%20Canary%20Channel-%230078D4?logo=windows11&amp;logoColor=%230078D4" referrerpolicy="no-referrer" alt="DevelopmentSystem" class="target-image">
     </a>
     <span> </span>
-    <a href='https://github.com/AustinFairyland'>
+    <a href='https://github.com/FairylandTech'>
         <img src="https://img.shields.io/badge/VCS-GitHub-%23181717?logo=github&amp;logoColor=%23181717" referrerpolicy="no-referrer" alt="VCS" class="target-image">
     </a>
     <span> </span>
