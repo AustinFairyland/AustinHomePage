@@ -2,7 +2,7 @@
 @File: data.ts
 @Editor: WebStorm
 @Author: Lionel Johnson (From Chengdu.China) https://fairy.host
-@HomePage: https://github.com/AustinFairyland
+@HomePage: https://github.com/FairylandTech
 @OperatingSystem: Windows 11 Professional Workstation 23H2 Canary Channel
 @CreatedTime: 2024-01-12
 */
@@ -247,7 +247,7 @@ export const NAV_DATA: NavData[] = [
       //   icon: "https://txcos.service.fairy.host/icon/python.svg",
       //   title: "Daily Module - PyPI",
       //   desc: "Daily updated Python modules offering practical functions and tools.",
-      //   link: "https://github.com/AustinFairyland/AustinModuleDaily"
+      //   link: "https://github.com/FairylandTech/AustinModuleDaily"
       // },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
@@ -298,49 +298,49 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "Auto Git Commit",
         desc: "Automate your Git commit process, optimizing your code management and collaboration.",
-        link: "https://github.com/AustinFairyland/AustinPersAutoGitCommit"
+        link: "https://github.com/FairylandTech/AustinPersAutoGitCommit"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "Douban Film Data Clear",
         desc: "Efficiently crawls Douban movie data, providing strong support for data analysis and application development.",
-        link: "https://github.com/AustinFairyland/AustinPersDoubanFilmSpider"
+        link: "https://github.com/FairylandTech/AustinPersDoubanFilmSpider"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "Douban Film API",
         desc: "Provide a visual interface for Douban movie data to enhance the intuitiveness and interactivity of data presentation.",
-        link: "https://github.com/AustinFairyland/AustinPersDoubanFilmAPI"
+        link: "https://github.com/FairylandTech/AustinPersDoubanFilmAPI"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "CTWing - Edge Cloud",
         desc: "Explore the edge computing capabilities of Tianyi Cloud to provide efficient and reliable cloud services for applications.",
-        link: "https://github.com/AustinFairyland/AceProjectCTCloudEOPAuth"
+        link: "https://github.com/FairylandTech/AceProjectCTCloudEOPAuth"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "Weather Identification",
         desc: "Real-time Weather Identification API, providing accurate meteorological information for your application.",
-        link: "https://github.com/AustinFairyland/work_weather_identify_runnet_backend"
+        link: "https://github.com/FairylandTech/work_weather_identify_runnet_backend"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "Airspace Safety",
         desc: "Accurately delineate airspace safety zones to ensure aviation safety and flight route planning.",
-        link: "https://github.com/AustinFairyland/work_safe_runnet_service"
+        link: "https://github.com/FairylandTech/work_safe_runnet_service"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "Food Ordering API",
         desc: "WeChat Mini Program API - Provides efficient and stable backend support for the ordering system.",
-        link: "https://github.com/AustinFairyland/work_order_food_jid_service"
+        link: "https://github.com/FairylandTech/work_order_food_jid_service"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "Order Data Analysis",
         desc: "Clean and analyze meal ordering data, provide intuitive visual reports and insights.",
-        link: "https://github.com/AustinFairyland/work_order_food_data_clean_jid_service"
+        link: "https://github.com/FairylandTech/work_order_food_data_clean_jid_service"
       }
     ]
   },
@@ -351,7 +351,7 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/golang.svg",
         title: "Goland",
         desc: "Goland Project - Exploring Efficient Programming and Application Development with Go Language.",
-        link: "https://github.com/AustinFairyland/other_none_golang_go1"
+        link: "https://github.com/FairylandTech/other_none_golang_go1"
       },
     ]
   },
@@ -362,7 +362,7 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/java.svg",
         title: "Accounting Book",
         desc: "Using the HarmonyOS-developed accounting app, managing finances becomes simpler and more efficient.",
-        link: "https://github.com/AustinFairyland/other_none_harmony_android"
+        link: "https://github.com/FairylandTech/other_none_harmony_android"
       },
     ]
   },
@@ -373,13 +373,13 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/vite.svg",
         title: "Personal Homepage",
         desc: "A personal homepage built with VitePress, showcasing Lionel Johnson's technical expertise and creativity.",
-        link: "https://github.com/AustinFairyland/AustinHomePage"
+        link: "https://github.com/FairylandTech/AustinHomePage"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/vue.svg",
         title: "Douban Movie Analyse",
         desc: "A Vue-based Douban Movie Data Visualization Project, graphically showcasing the diversity of the movie world.",
-        link: "https://github.com/AustinFairyland/AustinPersDoubanFilmWeb"
+        link: "https://github.com/FairylandTech/AustinPersDoubanFilmWeb"
       }
     ]
   },
@@ -390,7 +390,7 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/miniprogram.svg",
         title: "Ordering System",
         desc: "WeChat Mini Program - A convenient ordering system that offers fast food ordering and management features.",
-        link: "https://github.com/AustinFairyland/work_order_food_jid_mini_program"
+        link: "https://github.com/FairylandTech/work_order_food_jid_mini_program"
       },
     ]
   },

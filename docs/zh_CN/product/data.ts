@@ -2,7 +2,7 @@
 @File: data.ts
 @Editor: WebStorm
 @Author: Austin (From Chengdu.China) https://fairy.host
-@HomePage: https://github.com/AustinFairyland
+@HomePage: https://github.com/FairylandTech
 @OperatingSystem: Windows 11 Professional Workstation 23H2 Canary Channel
 @CreatedTime: 2024-01-12
 */
@@ -23,7 +23,7 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/github.svg",
         title: 'Github',
         desc: '探索开源世界，发现充满创意和协作精神的代码库。',
-        link: 'https://github.com/AustinFairyland',
+        link: 'https://github.com/FairylandTech',
       },
       {
         icon: 'https://txcos.service.fairy.host/icon/gitlab.svg',
@@ -212,19 +212,19 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "Austin Framework",
         desc: "Austin Framework - 一个灵活的Python框架，助力快速开发和创新。",
-        link: "https://github.com/AustinFairyland/AustinFramework"
+        link: "https://github.com/FairylandTech/AustinFramework"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "Austin Daily Module - PyPI",
         desc: "每日更新的Python模块，提供实用的功能和工具。",
-        link: "https://github.com/AustinFairyland/AustinModuleDaily"
+        link: "https://github.com/FairylandTech/AustinModuleDaily"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "Austin Fairyland Module - PyPI",
         desc: "Austin Fairyland的Python模块集，充满创新和实用性。",
-        link: "https://github.com/AustinFairyland/AustinFairylandRepository"
+        link: "https://github.com/FairylandTech/AustinFairylandRepository"
       },
     ]
   },
@@ -269,49 +269,49 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "自动提交Git",
         desc: "自动化Git提交流程，优化您的代码管理和合作。",
-        link: "https://github.com/AustinFairyland/AustinPersAutoGitCommit"
+        link: "https://github.com/FairylandTech/AustinPersAutoGitCommit"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "豆瓣电影数据爬虫",
         desc: "高效爬取豆瓣电影数据，为数据分析和应用开发提供强大支持。",
-        link: "https://github.com/AustinFairyland/AustinPersDoubanFilmSpider"
+        link: "https://github.com/FairylandTech/AustinPersDoubanFilmSpider"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "豆瓣电影数据可视化API",
         desc: "提供豆瓣电影数据的可视化接口，增强数据展示的直观性和互动性。",
-        link: "https://github.com/AustinFairyland/AustinPersDoubanFilmAPI"
+        link: "https://github.com/FairylandTech/AustinPersDoubanFilmAPI"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "天翼云 - 边缘云计算",
         desc: "探索天翼云的边缘计算能力，为应用提供高效和可靠的云服务。",
-        link: "https://github.com/AustinFairyland/AceProjectCTCloudEOPAuth"
+        link: "https://github.com/FairylandTech/AceProjectCTCloudEOPAuth"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "天气识别API",
         desc: "实时天气识别API，为您的应用提供准确的气象信息。",
-        link: "https://github.com/AustinFairyland/work_weather_identify_runnet_backend"
+        link: "https://github.com/FairylandTech/work_weather_identify_runnet_backend"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "空域安全区域绘制",
         desc: "精确绘制空域安全区域，保障航空安全和航线规划。",
-        link: "https://github.com/AustinFairyland/work_safe_runnet_service"
+        link: "https://github.com/FairylandTech/work_safe_runnet_service"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "订餐微信小程序API",
         desc: "微信小程序API - 为订餐系统提供高效、稳定的后端支持。",
-        link: "https://github.com/AustinFairyland/work_order_food_jid_service"
+        link: "https://github.com/FairylandTech/work_order_food_jid_service"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
         title: "订餐数据清洗分析与可视化",
         desc: "清洗和分析订餐数据，提供直观的可视化报告和洞察。",
-        link: "https://github.com/AustinFairyland/work_order_food_data_clean_jid_service"
+        link: "https://github.com/FairylandTech/work_order_food_data_clean_jid_service"
       }
     ]
   },
@@ -322,7 +322,7 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/golang.svg",
         title: "Goland",
         desc: "Goland项目 - 探索Go语言的高效编程和应用开发。",
-        link: "https://github.com/AustinFairyland/other_none_golang_go1"
+        link: "https://github.com/FairylandTech/other_none_golang_go1"
       },
     ]
   },
@@ -333,7 +333,7 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/java.svg",
         title: "基于鸿蒙OS的记账本",
         desc: "利用鸿蒙OS开发的记账本应用，管理财务更简单高效。",
-        link: "https://github.com/AustinFairyland/other_none_harmony_android"
+        link: "https://github.com/FairylandTech/other_none_harmony_android"
       },
     ]
   },
@@ -344,13 +344,13 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/vite.svg",
         title: "个人主页",
         desc: "使用VitePress构建的个人主页，展示Austin的技术实力和创意。",
-        link: "https://github.com/AustinFairyland/AustinHomePage"
+        link: "https://github.com/FairylandTech/AustinHomePage"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/vue.svg",
         title: "豆瓣电影数据可视化",
         desc: "基于Vue的豆瓣电影数据可视化项目，图形化展现电影世界的多样性。",
-        link: "https://github.com/AustinFairyland/AustinPersDoubanFilmWeb"
+        link: "https://github.com/FairylandTech/AustinPersDoubanFilmWeb"
       }
     ]
   },
@@ -361,7 +361,7 @@ export const NAV_DATA: NavData[] = [
         icon: "https://txcos.service.fairy.host/icon/miniprogram.svg",
         title: "微信小程序 - 订餐系统",
         desc: "微信小程序 - 便捷的订餐系统，提供快速点餐和管理功能。",
-        link: "https://github.com/AustinFairyland/work_order_food_jid_mini_program"
+        link: "https://github.com/FairylandTech/work_order_food_jid_mini_program"
       },
     ]
   },

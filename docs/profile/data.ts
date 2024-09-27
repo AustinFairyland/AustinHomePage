@@ -13,7 +13,7 @@ export const NAV_DATA: NavData[] = [
         icon: '/logo.jpg',
         title: 'Github',
         desc: '',
-        link: 'https://github.com/AustinFairyland',
+        link: 'https://github.com/FairylandTech',
       },
     ],
   }
